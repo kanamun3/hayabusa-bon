@@ -1,6 +1,6 @@
 # hayabusa-bon
 
-##はじめに
+## はじめに
 隼本のstan部分のpystanによる実装
 
 - ローカルレベルモデルの推定
@@ -19,6 +19,6 @@ google colabではimport pystanとするだけでstanが使用できるため非
 TEMPLATE_DIR = "/content/drive/My Drive/"
 DATA_DIR = TEMPLATE_DIR + "data/" #dataを入れたフォルダを記載
 
-##参考サイト
+## 参考サイト
 - 隼本サポートページ:https://logics-of-blue.com/tsa-ssm-book-support/
 - Rとstanのコードとデータ:https://github.com/logics-of-blue/book-tsa-ssm-foundation
